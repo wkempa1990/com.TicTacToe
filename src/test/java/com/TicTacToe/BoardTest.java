@@ -113,8 +113,8 @@ public class BoardTest {
         board.play(3);
         board.play(4);
         board.play(5);
-        board.play(6);
         board.play(7);
+        board.play(6);
         board.play(9);
         board.play(8);
         //then
